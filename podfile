@@ -1,0 +1,11 @@
+
+target ‘TestApp' do
+  use_frameworks!
+
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'SwiftyVK’
+  pod 'SwiftyJSON'
+  pod 'Kingfisher'
+
+end
